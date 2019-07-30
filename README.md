@@ -1,2 +1,2 @@
 # stgrm
-Rustam Galiev
+Rustam
